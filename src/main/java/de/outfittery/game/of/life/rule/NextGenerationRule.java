@@ -2,7 +2,6 @@ package de.outfittery.game.of.life.rule;
 
 import de.outfittery.game.of.life.entity.Field;
 import de.outfittery.game.of.life.enums.PossibleNextFieldState;
-import javafx.geometry.Pos;
 
 /**
  * Created by ps689 on 6/17/15.
